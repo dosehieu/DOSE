@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\PlatformCore\DOSE.BASE.Platform.BL\DOSE.BASE.PlatformCore.BL.csproj" />
+    <ProjectReference Include="..\..\PlatformCore\DOSE.BASE.Platform.Common\DOSE.BASE.PlatformCore.Common.csproj" />
+    <ProjectReference Include="..\..\PlatformCore\DOSE.BASE.Platform.Web\DOSE.BASE.PlatformCore.Web.csproj" />
+    <ProjectReference Include="..\DOSE.BASE.Auth.BL\DOSE.BASE.Auth.BL.csproj" />
+  </ItemGroup>
+
+
+</Project>

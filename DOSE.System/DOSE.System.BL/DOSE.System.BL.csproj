@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.BL\DOSE.BASE.PlatformCore.BL.csproj" />
+    <ProjectReference Include="..\..\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Web\DOSE.BASE.PlatformCore.Web.csproj" />
+    <ProjectReference Include="..\DOSE.System.Model\DOSE.System.Model.csproj" />
+  </ItemGroup>
+
+</Project>

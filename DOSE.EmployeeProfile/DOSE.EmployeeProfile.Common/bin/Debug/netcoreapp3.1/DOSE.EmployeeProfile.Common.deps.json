@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DOSE.EmployeeProfile.Common/1.0.0": {
+        "runtime": {
+          "DOSE.EmployeeProfile.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DOSE.EmployeeProfile.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DOSE.BASE.PlatformService.Authorization/1.0.0": {
+        "runtime": {
+          "DOSE.BASE.PlatformService.Authorization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DOSE.BASE.PlatformService.Authorization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

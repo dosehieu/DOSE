@@ -1,0 +1,9 @@
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Cache\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Cache.deps.json
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Cache\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Cache.dll
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Cache\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Cache.pdb
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Cache\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Cache.csprojAssemblyReference.cache
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Cache\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Cache.AssemblyInfoInputs.cache
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Cache\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Cache.AssemblyInfo.cs
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Cache\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Cache.csproj.CoreCompileInputs.cache
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Cache\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Cache.dll
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Cache\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Cache.pdb

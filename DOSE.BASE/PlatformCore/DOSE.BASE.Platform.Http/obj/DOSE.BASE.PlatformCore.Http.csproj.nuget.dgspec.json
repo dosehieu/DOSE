@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Http\\DOSE.BASE.PlatformCore.Http.csproj": {}
+  },
+  "projects": {
+    "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Common\\DOSE.BASE.PlatformCore.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Common\\DOSE.BASE.PlatformCore.Common.csproj",
+        "projectName": "DOSE.BASE.PlatformCore.Common",
+        "projectPath": "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Common\\DOSE.BASE.PlatformCore.Common.csproj",
+        "packagesPath": "C:\\Users\\Hello\\.nuget\\packages\\",
+        "outputPath": "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Http\\DOSE.BASE.PlatformCore.Http.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Http\\DOSE.BASE.PlatformCore.Http.csproj",
+        "projectName": "DOSE.BASE.PlatformCore.Http",
+        "projectPath": "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Http\\DOSE.BASE.PlatformCore.Http.csproj",
+        "packagesPath": "C:\\Users\\Hello\\.nuget\\packages\\",
+        "outputPath": "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Http\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Common\\DOSE.BASE.PlatformCore.Common.csproj": {
+                "projectPath": "E:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Common\\DOSE.BASE.PlatformCore.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

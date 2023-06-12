@@ -1,0 +1,11 @@
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\bin\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.deps.json
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\bin\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.dll
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\bin\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.pdb
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.AssemblyInfoInputs.cache
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.AssemblyInfo.cs
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.csproj.CoreCompileInputs.cache
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.dll
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.pdb
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.csprojAssemblyReference.cache
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.Resource.resources
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Common\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Common.csproj.GenerateResource.cache

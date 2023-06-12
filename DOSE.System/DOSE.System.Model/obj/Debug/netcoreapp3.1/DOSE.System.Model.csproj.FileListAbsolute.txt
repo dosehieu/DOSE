@@ -1,0 +1,9 @@
+D:\DOSE\DOSE.System\DOSE.System.Model\bin\Debug\netcoreapp3.1\DOSE.System.Model.deps.json
+D:\DOSE\DOSE.System\DOSE.System.Model\bin\Debug\netcoreapp3.1\DOSE.System.Model.dll
+D:\DOSE\DOSE.System\DOSE.System.Model\bin\Debug\netcoreapp3.1\DOSE.System.Model.pdb
+D:\DOSE\DOSE.System\DOSE.System.Model\obj\Debug\netcoreapp3.1\DOSE.System.Model.csprojAssemblyReference.cache
+D:\DOSE\DOSE.System\DOSE.System.Model\obj\Debug\netcoreapp3.1\DOSE.System.Model.AssemblyInfoInputs.cache
+D:\DOSE\DOSE.System\DOSE.System.Model\obj\Debug\netcoreapp3.1\DOSE.System.Model.AssemblyInfo.cs
+D:\DOSE\DOSE.System\DOSE.System.Model\obj\Debug\netcoreapp3.1\DOSE.System.Model.csproj.CoreCompileInputs.cache
+D:\DOSE\DOSE.System\DOSE.System.Model\obj\Debug\netcoreapp3.1\DOSE.System.Model.dll
+D:\DOSE\DOSE.System\DOSE.System.Model\obj\Debug\netcoreapp3.1\DOSE.System.Model.pdb

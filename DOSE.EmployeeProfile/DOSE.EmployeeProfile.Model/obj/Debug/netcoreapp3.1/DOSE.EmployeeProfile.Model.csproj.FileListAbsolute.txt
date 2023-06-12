@@ -1,0 +1,15 @@
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\bin\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.deps.json
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\bin\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.runtimeconfig.json
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\bin\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.runtimeconfig.dev.json
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\bin\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.dll
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\bin\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.pdb
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Common.dll
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Common.pdb
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.csprojAssemblyReference.cache
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.AssemblyInfoInputs.cache
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.AssemblyInfo.cs
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.csproj.CoreCompileInputs.cache
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.csproj.CopyComplete
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.dll
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.pdb
+D:\DOSE\DOSE.EmployeeProfile\DOSE.EmployeeProfile.Model\obj\Debug\netcoreapp3.1\DOSE.EmployeeProfile.Model.genruntimeconfig.cache

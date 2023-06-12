@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3W+I/CuZjVRxrxYf59ezNOU+gLnEx5vcy7LFx9r0QO5Esn/MxarHoodOVbcjIkW08doPU6unbUN40u9z/qB2wQ==",
+  "success": true,
+  "projectFilePath": "D:\\DOSE\\DOSE.BASE\\PlatformCore\\DOSE.BASE.Platform.Model\\DOSE.BASE.PlatformCore.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hello\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hello\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

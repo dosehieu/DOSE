@@ -1,0 +1,9 @@
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Authentication\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Authentication.deps.json
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Authentication\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Authentication.dll
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Authentication\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Authentication.pdb
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Authentication\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Authentication.AssemblyInfoInputs.cache
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Authentication\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Authentication.AssemblyInfo.cs
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Authentication\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Authentication.csproj.CoreCompileInputs.cache
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Authentication\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Authentication.dll
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Authentication\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Authentication.pdb
+D:\DOSE\DOSE.BASE\PlatformService\DOSE.BASE.PlatformService.Authentication\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformService.Authentication.csprojAssemblyReference.cache

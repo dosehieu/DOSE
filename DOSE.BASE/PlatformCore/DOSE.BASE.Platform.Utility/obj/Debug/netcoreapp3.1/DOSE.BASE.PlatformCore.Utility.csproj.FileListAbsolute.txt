@@ -1,0 +1,12 @@
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.deps.json
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.dll
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.pdb
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Model.dll
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\bin\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Model.pdb
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.csprojAssemblyReference.cache
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.AssemblyInfoInputs.cache
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.AssemblyInfo.cs
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.csproj.CoreCompileInputs.cache
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.csproj.CopyComplete
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.dll
+D:\DOSE\DOSE.BASE\PlatformCore\DOSE.BASE.Platform.Utility\obj\Debug\netcoreapp3.1\DOSE.BASE.PlatformCore.Utility.pdb
